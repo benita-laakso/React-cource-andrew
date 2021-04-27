@@ -1,0 +1,11 @@
+setState
+https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1#:~:text=Passing%20in%20a%20function%20into,your%20component's%20state%20and%20props%20.
+
+
+Idee:
+
+Create a React app with your favourite usefull links
+Buttons displayed alphabetically
+
+Leater you could ad a serch engin that alowes you to serch by letter
+ex. S would bring up setState

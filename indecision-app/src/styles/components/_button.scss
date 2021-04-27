@@ -1,0 +1,42 @@
+//Big button
+.big-button{
+    background: $purple;
+    border:none;
+    border-bottom:.6rem solid darken($purple,10%);
+    color:white;
+    font-weight: bold;
+    font-size:$l-size ;
+    padding:2.4rem;
+    margin-bottom:$m-size;
+    width: 100%;
+}
+@media(min-width:$desktop-breakpoint){
+    .big-button{
+        margin-bottom:$xl-size;
+    }
+}
+.big-button:disabled{
+    opacity:.5;
+}
+//button
+button{
+    cursor:pointer;
+}
+button:disabled{
+    cursor:default;
+}
+.button{background: $purple;
+border:none;
+border-bottom: .3rem solid darken($purple,10%);
+color:white;
+font-weight: 500; 
+padding:$s-size;
+}
+//naming convention, for modifiers/modification of somthing eg button use --
+.button--link{
+  
+    background: none;
+    border:none;
+    color:$off-white;
+    padding:0;
+}

@@ -1,0 +1,15 @@
+html{
+    font-size:62.5%;
+    // 16 px base * 0.625 = 10 
+    //this means we are using rem in a base 10 system
+
+}
+
+body{background: $dark-blue;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: $m-size;
+    // 16px is still base size
+}
+h1{
+    font-size: 1rem;
+}
