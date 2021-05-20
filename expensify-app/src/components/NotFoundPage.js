@@ -8,3 +8,5 @@ const NotFoundPage =()=>{
 };
 
 export default NotFoundPage;
+
+//With Router we can provide a link in a Component that goes to another Component
