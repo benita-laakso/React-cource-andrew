@@ -52,3 +52,7 @@ http://airbnb.io/react-dates/?path=/story/singledatepicker-sdp--default
 
 react-dates requires a nother pure dependensy that we have to install, it is used internaly by react-dates library:
 react-addons-shallow-compare
+
+
+//Deployment recap
+//https://www.udemy.com/course/react-2nd-edition/learn/lecture/7900134#questions/6237550
